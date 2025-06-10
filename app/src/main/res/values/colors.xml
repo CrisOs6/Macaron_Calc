@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#fce1e4</color>
+    <color name="btnNum">#e29bbd</color>
+    <color name="btnOpera">#fff3d1</color>
+    <color name="result">#94d2a5</color>
+    <color name="linea">#202f5a</color>
+
+</resources>
